@@ -2,7 +2,7 @@
 
 https://github.com/ThomasHabets/bthelper
 
-This is not an official Google product.
+[This is not an official Google product.](https://blog.habets.se/2022/02/SSH-over-Bluetooth-cleanly.html)
 
 ## What is it
 
